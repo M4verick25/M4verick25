@@ -18,4 +18,4 @@ VS Code | Jupyter | GitHub | Git
 - 💬 Ask me about robotics, control and automation.
 - 📫 How to reach me: Nagarjuna Raju Hindushekar (LinkedIn)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can shoot 3P in basketball without looking at the hoop!!
+- ⚡ Fun fact: <mark>I can shoot 3P in basketball without looking at the hoop!!</mark>
